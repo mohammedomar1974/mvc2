@@ -1,0 +1,12 @@
+/home/omar/mvc2
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=mvc2
+--content-root=/home/omar/mvc2
+--file=/home/omar/mvc2/Views/Home/About.cshtml
+--file=/home/omar/mvc2/Views/Home/Contact.cshtml
+--file=/home/omar/mvc2/Views/Home/Index.cshtml
+--file=/home/omar/mvc2/Views/Shared/Error.cshtml
+--file=/home/omar/mvc2/Views/Shared/_Layout.cshtml
+--file=/home/omar/mvc2/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/omar/mvc2/Views/_ViewImports.cshtml
+--file=/home/omar/mvc2/Views/_ViewStart.cshtml

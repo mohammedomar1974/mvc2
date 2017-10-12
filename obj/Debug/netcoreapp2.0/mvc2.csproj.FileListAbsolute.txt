@@ -1,0 +1,10 @@
+/home/omar/mvc2/bin/Debug/netcoreapp2.0/mvc2.deps.json
+/home/omar/mvc2/bin/Debug/netcoreapp2.0/mvc2.runtimeconfig.json
+/home/omar/mvc2/bin/Debug/netcoreapp2.0/mvc2.runtimeconfig.dev.json
+/home/omar/mvc2/bin/Debug/netcoreapp2.0/mvc2.dll
+/home/omar/mvc2/bin/Debug/netcoreapp2.0/mvc2.pdb
+/home/omar/mvc2/obj/Debug/netcoreapp2.0/mvc2.csproj.CoreCompileInputs.cache
+/home/omar/mvc2/obj/Debug/netcoreapp2.0/mvc2.AssemblyInfoInputs.cache
+/home/omar/mvc2/obj/Debug/netcoreapp2.0/mvc2.AssemblyInfo.cs
+/home/omar/mvc2/obj/Debug/netcoreapp2.0/mvc2.dll
+/home/omar/mvc2/obj/Debug/netcoreapp2.0/mvc2.pdb
