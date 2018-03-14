@@ -1,5 +1,5 @@
 //local
-import { BrowserModule } from '@angular/platform-browser';
+importx { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 //////////ppppppp
 
